@@ -1,0 +1,39 @@
+
+
+#navlink{
+    color: white;
+    transition: 0.3s;
+}
+#navlink:hover{
+    color: orangered;
+    border-bottom: 3px solid orangered ;
+}
+
+.active-link{
+    color: aqua;
+}
+#orange-color{
+    color: orangered;
+}
+#socialIcon{
+    color: orangered;
+    transition: 0.3s;
+}
+#socialIcon:hover{
+    color: black;
+}
+
+#bg-orange{
+    background-color: orangered;
+    color: white;
+    font-weight: 700;   
+}
+
+#bg{
+    background-color: rgba(169, 169, 169, 0.500);
+}
+
+.bg{
+    background-color: rgba(169, 169, 169, 0.500);
+}
+
